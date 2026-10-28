@@ -19,6 +19,8 @@ The game then generates the actual vegetation (trees/rocks) and house
 buildings procedurally from these inputs - based on the real geography in the
 heightmap and masks.
 
+![tf3-mapgen GUI](docs/screenshot.png)
+
 > New here? See **[TUTORIAL.md](TUTORIAL.md)** for a short step-by-step walkthrough.
 
 ## One-click app (GUI)
